@@ -73,6 +73,9 @@ body {
     font-family: "Robot" sans-serif;
     -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  column-gap: 0.01px;
+  position:absolute;
 }
 p {
     font-size: 15px;
